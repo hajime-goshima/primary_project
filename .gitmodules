@@ -1,0 +1,3 @@
+[submodule "secondary_submodule"]
+	path = secondary_submodule
+	url = https://github.com/hajime-goshima/secondary_project.git
